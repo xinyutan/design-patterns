@@ -1,0 +1,11 @@
+/Users/xinyutan/Documents/GitHub/DesignPattern/Prototype/Prototype/Prototype/obj/Debug/netcoreapp2.1/Prototype.csprojAssemblyReference.cache
+/Users/xinyutan/Documents/GitHub/DesignPattern/Prototype/Prototype/Prototype/obj/Debug/netcoreapp2.1/Prototype.csproj.CoreCompileInputs.cache
+/Users/xinyutan/Documents/GitHub/DesignPattern/Prototype/Prototype/Prototype/obj/Debug/netcoreapp2.1/Prototype.AssemblyInfoInputs.cache
+/Users/xinyutan/Documents/GitHub/DesignPattern/Prototype/Prototype/Prototype/obj/Debug/netcoreapp2.1/Prototype.AssemblyInfo.cs
+/Users/xinyutan/Documents/GitHub/DesignPattern/Prototype/Prototype/Prototype/bin/Debug/netcoreapp2.1/Prototype.deps.json
+/Users/xinyutan/Documents/GitHub/DesignPattern/Prototype/Prototype/Prototype/bin/Debug/netcoreapp2.1/Prototype.runtimeconfig.json
+/Users/xinyutan/Documents/GitHub/DesignPattern/Prototype/Prototype/Prototype/bin/Debug/netcoreapp2.1/Prototype.runtimeconfig.dev.json
+/Users/xinyutan/Documents/GitHub/DesignPattern/Prototype/Prototype/Prototype/bin/Debug/netcoreapp2.1/Prototype.dll
+/Users/xinyutan/Documents/GitHub/DesignPattern/Prototype/Prototype/Prototype/bin/Debug/netcoreapp2.1/Prototype.pdb
+/Users/xinyutan/Documents/GitHub/DesignPattern/Prototype/Prototype/Prototype/obj/Debug/netcoreapp2.1/Prototype.dll
+/Users/xinyutan/Documents/GitHub/DesignPattern/Prototype/Prototype/Prototype/obj/Debug/netcoreapp2.1/Prototype.pdb

@@ -1,0 +1,11 @@
+/Users/xinyutan/Documents/GitHub/DesignPattern/Builder/Builder/Builder/bin/Debug/netcoreapp2.1/Builder.deps.json
+/Users/xinyutan/Documents/GitHub/DesignPattern/Builder/Builder/Builder/bin/Debug/netcoreapp2.1/Builder.runtimeconfig.json
+/Users/xinyutan/Documents/GitHub/DesignPattern/Builder/Builder/Builder/bin/Debug/netcoreapp2.1/Builder.runtimeconfig.dev.json
+/Users/xinyutan/Documents/GitHub/DesignPattern/Builder/Builder/Builder/bin/Debug/netcoreapp2.1/Builder.dll
+/Users/xinyutan/Documents/GitHub/DesignPattern/Builder/Builder/Builder/bin/Debug/netcoreapp2.1/Builder.pdb
+/Users/xinyutan/Documents/GitHub/DesignPattern/Builder/Builder/Builder/obj/Debug/netcoreapp2.1/Builder.csprojAssemblyReference.cache
+/Users/xinyutan/Documents/GitHub/DesignPattern/Builder/Builder/Builder/obj/Debug/netcoreapp2.1/Builder.csproj.CoreCompileInputs.cache
+/Users/xinyutan/Documents/GitHub/DesignPattern/Builder/Builder/Builder/obj/Debug/netcoreapp2.1/Builder.AssemblyInfoInputs.cache
+/Users/xinyutan/Documents/GitHub/DesignPattern/Builder/Builder/Builder/obj/Debug/netcoreapp2.1/Builder.AssemblyInfo.cs
+/Users/xinyutan/Documents/GitHub/DesignPattern/Builder/Builder/Builder/obj/Debug/netcoreapp2.1/Builder.dll
+/Users/xinyutan/Documents/GitHub/DesignPattern/Builder/Builder/Builder/obj/Debug/netcoreapp2.1/Builder.pdb

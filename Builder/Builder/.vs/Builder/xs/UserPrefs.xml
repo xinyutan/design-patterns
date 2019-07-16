@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{00A3E028-B308-49C7-AE8D-8E91085031B0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Builder/TripPlanner.cs">
+    <Files>
+      <File FileName="Builder/Program.cs" Line="7" Column="40" />
+      <File FileName="Builder/Builder.cs" Line="91" Column="35" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Builder" expanded="True">
+            <Node name="Builder" expanded="True">
+              <Node name="TripPlanner.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Builder PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

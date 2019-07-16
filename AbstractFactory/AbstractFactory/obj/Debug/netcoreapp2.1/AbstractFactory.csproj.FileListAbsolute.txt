@@ -1,0 +1,11 @@
+/Users/xinyutan/Documents/GitHub/DesignPattern/AbstractFactory/AbstractFactory/bin/Debug/netcoreapp2.1/AbstractFactory.deps.json
+/Users/xinyutan/Documents/GitHub/DesignPattern/AbstractFactory/AbstractFactory/bin/Debug/netcoreapp2.1/AbstractFactory.runtimeconfig.json
+/Users/xinyutan/Documents/GitHub/DesignPattern/AbstractFactory/AbstractFactory/bin/Debug/netcoreapp2.1/AbstractFactory.runtimeconfig.dev.json
+/Users/xinyutan/Documents/GitHub/DesignPattern/AbstractFactory/AbstractFactory/bin/Debug/netcoreapp2.1/AbstractFactory.dll
+/Users/xinyutan/Documents/GitHub/DesignPattern/AbstractFactory/AbstractFactory/bin/Debug/netcoreapp2.1/AbstractFactory.pdb
+/Users/xinyutan/Documents/GitHub/DesignPattern/AbstractFactory/AbstractFactory/obj/Debug/netcoreapp2.1/AbstractFactory.csprojAssemblyReference.cache
+/Users/xinyutan/Documents/GitHub/DesignPattern/AbstractFactory/AbstractFactory/obj/Debug/netcoreapp2.1/AbstractFactory.csproj.CoreCompileInputs.cache
+/Users/xinyutan/Documents/GitHub/DesignPattern/AbstractFactory/AbstractFactory/obj/Debug/netcoreapp2.1/AbstractFactory.AssemblyInfoInputs.cache
+/Users/xinyutan/Documents/GitHub/DesignPattern/AbstractFactory/AbstractFactory/obj/Debug/netcoreapp2.1/AbstractFactory.AssemblyInfo.cs
+/Users/xinyutan/Documents/GitHub/DesignPattern/AbstractFactory/AbstractFactory/obj/Debug/netcoreapp2.1/AbstractFactory.dll
+/Users/xinyutan/Documents/GitHub/DesignPattern/AbstractFactory/AbstractFactory/obj/Debug/netcoreapp2.1/AbstractFactory.pdb
