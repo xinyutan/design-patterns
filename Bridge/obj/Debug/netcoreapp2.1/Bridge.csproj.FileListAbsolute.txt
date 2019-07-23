@@ -1,0 +1,11 @@
+/Users/xinyutan/Documents/GitHub/DesignPattern/Bridge/bin/Debug/netcoreapp2.1/Bridge.deps.json
+/Users/xinyutan/Documents/GitHub/DesignPattern/Bridge/bin/Debug/netcoreapp2.1/Bridge.runtimeconfig.json
+/Users/xinyutan/Documents/GitHub/DesignPattern/Bridge/bin/Debug/netcoreapp2.1/Bridge.runtimeconfig.dev.json
+/Users/xinyutan/Documents/GitHub/DesignPattern/Bridge/bin/Debug/netcoreapp2.1/Bridge.dll
+/Users/xinyutan/Documents/GitHub/DesignPattern/Bridge/bin/Debug/netcoreapp2.1/Bridge.pdb
+/Users/xinyutan/Documents/GitHub/DesignPattern/Bridge/obj/Debug/netcoreapp2.1/Bridge.csprojAssemblyReference.cache
+/Users/xinyutan/Documents/GitHub/DesignPattern/Bridge/obj/Debug/netcoreapp2.1/Bridge.csproj.CoreCompileInputs.cache
+/Users/xinyutan/Documents/GitHub/DesignPattern/Bridge/obj/Debug/netcoreapp2.1/Bridge.AssemblyInfoInputs.cache
+/Users/xinyutan/Documents/GitHub/DesignPattern/Bridge/obj/Debug/netcoreapp2.1/Bridge.AssemblyInfo.cs
+/Users/xinyutan/Documents/GitHub/DesignPattern/Bridge/obj/Debug/netcoreapp2.1/Bridge.dll
+/Users/xinyutan/Documents/GitHub/DesignPattern/Bridge/obj/Debug/netcoreapp2.1/Bridge.pdb

@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{D9F6F447-1A3F-4AA5-A13A-83AA41DDA48A}|Default">
+  <MonoDevelop.Ide.ItemProperties.Bridge PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Algorithms.cs">
+    <Files>
+      <File FileName="Program.cs" Line="20" Column="53" />
+      <File FileName="Algorithms.cs" Line="32" Column="57" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Bridge" expanded="True">
+            <Node name="Bridge" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Algorithms.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
