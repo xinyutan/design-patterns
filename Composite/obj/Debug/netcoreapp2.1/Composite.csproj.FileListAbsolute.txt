@@ -1,0 +1,11 @@
+/Users/xinyutan/Documents/GitHub/DesignPattern/Composite/bin/Debug/netcoreapp2.1/Composite.deps.json
+/Users/xinyutan/Documents/GitHub/DesignPattern/Composite/bin/Debug/netcoreapp2.1/Composite.runtimeconfig.json
+/Users/xinyutan/Documents/GitHub/DesignPattern/Composite/bin/Debug/netcoreapp2.1/Composite.runtimeconfig.dev.json
+/Users/xinyutan/Documents/GitHub/DesignPattern/Composite/bin/Debug/netcoreapp2.1/Composite.dll
+/Users/xinyutan/Documents/GitHub/DesignPattern/Composite/bin/Debug/netcoreapp2.1/Composite.pdb
+/Users/xinyutan/Documents/GitHub/DesignPattern/Composite/obj/Debug/netcoreapp2.1/Composite.csprojAssemblyReference.cache
+/Users/xinyutan/Documents/GitHub/DesignPattern/Composite/obj/Debug/netcoreapp2.1/Composite.csproj.CoreCompileInputs.cache
+/Users/xinyutan/Documents/GitHub/DesignPattern/Composite/obj/Debug/netcoreapp2.1/Composite.AssemblyInfoInputs.cache
+/Users/xinyutan/Documents/GitHub/DesignPattern/Composite/obj/Debug/netcoreapp2.1/Composite.AssemblyInfo.cs
+/Users/xinyutan/Documents/GitHub/DesignPattern/Composite/obj/Debug/netcoreapp2.1/Composite.dll
+/Users/xinyutan/Documents/GitHub/DesignPattern/Composite/obj/Debug/netcoreapp2.1/Composite.pdb
