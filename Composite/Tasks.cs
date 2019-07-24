@@ -29,7 +29,6 @@ namespace Composite
             Console.WriteLine(printString);
             foreach(var subtask in SubTasks)
             {
-
                 subtask.Print(num + 1);
             }
         }
