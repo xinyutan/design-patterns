@@ -1,0 +1,11 @@
+/Users/xinyutan/Documents/GitHub/DesignPattern/Facade/obj/Debug/netcoreapp2.1/Facade.csprojAssemblyReference.cache
+/Users/xinyutan/Documents/GitHub/DesignPattern/Facade/obj/Debug/netcoreapp2.1/Facade.csproj.CoreCompileInputs.cache
+/Users/xinyutan/Documents/GitHub/DesignPattern/Facade/obj/Debug/netcoreapp2.1/Facade.AssemblyInfoInputs.cache
+/Users/xinyutan/Documents/GitHub/DesignPattern/Facade/obj/Debug/netcoreapp2.1/Facade.AssemblyInfo.cs
+/Users/xinyutan/Documents/GitHub/DesignPattern/Facade/bin/Debug/netcoreapp2.1/Facade.deps.json
+/Users/xinyutan/Documents/GitHub/DesignPattern/Facade/bin/Debug/netcoreapp2.1/Facade.runtimeconfig.json
+/Users/xinyutan/Documents/GitHub/DesignPattern/Facade/bin/Debug/netcoreapp2.1/Facade.runtimeconfig.dev.json
+/Users/xinyutan/Documents/GitHub/DesignPattern/Facade/bin/Debug/netcoreapp2.1/Facade.dll
+/Users/xinyutan/Documents/GitHub/DesignPattern/Facade/bin/Debug/netcoreapp2.1/Facade.pdb
+/Users/xinyutan/Documents/GitHub/DesignPattern/Facade/obj/Debug/netcoreapp2.1/Facade.dll
+/Users/xinyutan/Documents/GitHub/DesignPattern/Facade/obj/Debug/netcoreapp2.1/Facade.pdb
