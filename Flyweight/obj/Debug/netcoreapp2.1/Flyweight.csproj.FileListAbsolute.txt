@@ -1,0 +1,11 @@
+/Users/xinyutan/Projects/Flyweight/bin/Debug/netcoreapp2.1/Flyweight.deps.json
+/Users/xinyutan/Projects/Flyweight/bin/Debug/netcoreapp2.1/Flyweight.runtimeconfig.json
+/Users/xinyutan/Projects/Flyweight/bin/Debug/netcoreapp2.1/Flyweight.runtimeconfig.dev.json
+/Users/xinyutan/Projects/Flyweight/bin/Debug/netcoreapp2.1/Flyweight.dll
+/Users/xinyutan/Projects/Flyweight/bin/Debug/netcoreapp2.1/Flyweight.pdb
+/Users/xinyutan/Projects/Flyweight/obj/Debug/netcoreapp2.1/Flyweight.csprojAssemblyReference.cache
+/Users/xinyutan/Projects/Flyweight/obj/Debug/netcoreapp2.1/Flyweight.csproj.CoreCompileInputs.cache
+/Users/xinyutan/Projects/Flyweight/obj/Debug/netcoreapp2.1/Flyweight.AssemblyInfoInputs.cache
+/Users/xinyutan/Projects/Flyweight/obj/Debug/netcoreapp2.1/Flyweight.AssemblyInfo.cs
+/Users/xinyutan/Projects/Flyweight/obj/Debug/netcoreapp2.1/Flyweight.dll
+/Users/xinyutan/Projects/Flyweight/obj/Debug/netcoreapp2.1/Flyweight.pdb
