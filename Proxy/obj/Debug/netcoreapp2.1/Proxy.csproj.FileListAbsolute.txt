@@ -1,0 +1,11 @@
+/Users/xinyutan/Documents/GitHub/DesignPattern/Proxy/bin/Debug/netcoreapp2.1/Proxy.deps.json
+/Users/xinyutan/Documents/GitHub/DesignPattern/Proxy/bin/Debug/netcoreapp2.1/Proxy.runtimeconfig.json
+/Users/xinyutan/Documents/GitHub/DesignPattern/Proxy/bin/Debug/netcoreapp2.1/Proxy.runtimeconfig.dev.json
+/Users/xinyutan/Documents/GitHub/DesignPattern/Proxy/bin/Debug/netcoreapp2.1/Proxy.dll
+/Users/xinyutan/Documents/GitHub/DesignPattern/Proxy/bin/Debug/netcoreapp2.1/Proxy.pdb
+/Users/xinyutan/Documents/GitHub/DesignPattern/Proxy/obj/Debug/netcoreapp2.1/Proxy.csprojAssemblyReference.cache
+/Users/xinyutan/Documents/GitHub/DesignPattern/Proxy/obj/Debug/netcoreapp2.1/Proxy.csproj.CoreCompileInputs.cache
+/Users/xinyutan/Documents/GitHub/DesignPattern/Proxy/obj/Debug/netcoreapp2.1/Proxy.AssemblyInfoInputs.cache
+/Users/xinyutan/Documents/GitHub/DesignPattern/Proxy/obj/Debug/netcoreapp2.1/Proxy.AssemblyInfo.cs
+/Users/xinyutan/Documents/GitHub/DesignPattern/Proxy/obj/Debug/netcoreapp2.1/Proxy.dll
+/Users/xinyutan/Documents/GitHub/DesignPattern/Proxy/obj/Debug/netcoreapp2.1/Proxy.pdb
