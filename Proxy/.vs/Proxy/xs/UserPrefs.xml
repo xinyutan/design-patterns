@@ -1,22 +1,22 @@
 ﻿<Properties StartupConfiguration="{D438706D-3701-4DB7-8313-BABB69FF2A23}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="BookControl.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Reader.cs">
     <Files>
-      <File FileName="Program.cs" Line="1" Column="1" />
-      <File FileName="BookControl.cs" Line="4" Column="5" />
+      <File FileName="Program.cs" Line="14" Column="66" />
+      <File FileName="BookControl.cs" Line="49" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Proxy" expanded="True">
             <Node name="Proxy" expanded="True">
-              <Node name="BookControl.cs" selected="True" />
+              <Node name="Reader.cs" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Proxy FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Proxy PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

@@ -1,0 +1,11 @@
+/Users/xinyutan/Documents/GitHub/DesignPattern/ChainOfResponsibility/obj/Debug/netcoreapp2.1/ChainOfResponsibility.csprojAssemblyReference.cache
+/Users/xinyutan/Documents/GitHub/DesignPattern/ChainOfResponsibility/obj/Debug/netcoreapp2.1/ChainOfResponsibility.csproj.CoreCompileInputs.cache
+/Users/xinyutan/Documents/GitHub/DesignPattern/ChainOfResponsibility/obj/Debug/netcoreapp2.1/ChainOfResponsibility.AssemblyInfoInputs.cache
+/Users/xinyutan/Documents/GitHub/DesignPattern/ChainOfResponsibility/obj/Debug/netcoreapp2.1/ChainOfResponsibility.AssemblyInfo.cs
+/Users/xinyutan/Documents/GitHub/DesignPattern/ChainOfResponsibility/bin/Debug/netcoreapp2.1/ChainOfResponsibility.deps.json
+/Users/xinyutan/Documents/GitHub/DesignPattern/ChainOfResponsibility/bin/Debug/netcoreapp2.1/ChainOfResponsibility.runtimeconfig.json
+/Users/xinyutan/Documents/GitHub/DesignPattern/ChainOfResponsibility/bin/Debug/netcoreapp2.1/ChainOfResponsibility.runtimeconfig.dev.json
+/Users/xinyutan/Documents/GitHub/DesignPattern/ChainOfResponsibility/bin/Debug/netcoreapp2.1/ChainOfResponsibility.dll
+/Users/xinyutan/Documents/GitHub/DesignPattern/ChainOfResponsibility/bin/Debug/netcoreapp2.1/ChainOfResponsibility.pdb
+/Users/xinyutan/Documents/GitHub/DesignPattern/ChainOfResponsibility/obj/Debug/netcoreapp2.1/ChainOfResponsibility.dll
+/Users/xinyutan/Documents/GitHub/DesignPattern/ChainOfResponsibility/obj/Debug/netcoreapp2.1/ChainOfResponsibility.pdb
