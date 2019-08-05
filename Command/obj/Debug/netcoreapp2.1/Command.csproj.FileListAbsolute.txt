@@ -1,0 +1,11 @@
+/Users/xinyutan/Documents/GitHub/DesignPattern/Command/bin/Debug/netcoreapp2.1/Command.deps.json
+/Users/xinyutan/Documents/GitHub/DesignPattern/Command/bin/Debug/netcoreapp2.1/Command.runtimeconfig.json
+/Users/xinyutan/Documents/GitHub/DesignPattern/Command/bin/Debug/netcoreapp2.1/Command.runtimeconfig.dev.json
+/Users/xinyutan/Documents/GitHub/DesignPattern/Command/bin/Debug/netcoreapp2.1/Command.dll
+/Users/xinyutan/Documents/GitHub/DesignPattern/Command/bin/Debug/netcoreapp2.1/Command.pdb
+/Users/xinyutan/Documents/GitHub/DesignPattern/Command/obj/Debug/netcoreapp2.1/Command.csprojAssemblyReference.cache
+/Users/xinyutan/Documents/GitHub/DesignPattern/Command/obj/Debug/netcoreapp2.1/Command.csproj.CoreCompileInputs.cache
+/Users/xinyutan/Documents/GitHub/DesignPattern/Command/obj/Debug/netcoreapp2.1/Command.AssemblyInfoInputs.cache
+/Users/xinyutan/Documents/GitHub/DesignPattern/Command/obj/Debug/netcoreapp2.1/Command.AssemblyInfo.cs
+/Users/xinyutan/Documents/GitHub/DesignPattern/Command/obj/Debug/netcoreapp2.1/Command.dll
+/Users/xinyutan/Documents/GitHub/DesignPattern/Command/obj/Debug/netcoreapp2.1/Command.pdb
