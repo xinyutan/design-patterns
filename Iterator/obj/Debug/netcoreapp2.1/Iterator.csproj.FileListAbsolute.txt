@@ -1,0 +1,11 @@
+/Users/xinyutan/Documents/GitHub/DesignPattern/Iterator/bin/Debug/netcoreapp2.1/Iterator.deps.json
+/Users/xinyutan/Documents/GitHub/DesignPattern/Iterator/bin/Debug/netcoreapp2.1/Iterator.runtimeconfig.json
+/Users/xinyutan/Documents/GitHub/DesignPattern/Iterator/bin/Debug/netcoreapp2.1/Iterator.runtimeconfig.dev.json
+/Users/xinyutan/Documents/GitHub/DesignPattern/Iterator/bin/Debug/netcoreapp2.1/Iterator.dll
+/Users/xinyutan/Documents/GitHub/DesignPattern/Iterator/bin/Debug/netcoreapp2.1/Iterator.pdb
+/Users/xinyutan/Documents/GitHub/DesignPattern/Iterator/obj/Debug/netcoreapp2.1/Iterator.csprojAssemblyReference.cache
+/Users/xinyutan/Documents/GitHub/DesignPattern/Iterator/obj/Debug/netcoreapp2.1/Iterator.csproj.CoreCompileInputs.cache
+/Users/xinyutan/Documents/GitHub/DesignPattern/Iterator/obj/Debug/netcoreapp2.1/Iterator.AssemblyInfoInputs.cache
+/Users/xinyutan/Documents/GitHub/DesignPattern/Iterator/obj/Debug/netcoreapp2.1/Iterator.AssemblyInfo.cs
+/Users/xinyutan/Documents/GitHub/DesignPattern/Iterator/obj/Debug/netcoreapp2.1/Iterator.dll
+/Users/xinyutan/Documents/GitHub/DesignPattern/Iterator/obj/Debug/netcoreapp2.1/Iterator.pdb

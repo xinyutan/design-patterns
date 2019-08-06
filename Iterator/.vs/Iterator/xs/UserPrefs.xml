@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{BF244CD6-B84F-47B4-B155-19DC99EC421A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Tree.cs">
+    <Files>
+      <File FileName="Program.cs" Line="14" Column="14" />
+      <File FileName="Tree.cs" Line="94" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Iterator" expanded="True">
+            <Node name="Iterator" expanded="True">
+              <Node name="Tree.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Iterator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
