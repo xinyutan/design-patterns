@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{DB8E7E8F-09E8-491D-A6E4-4C1D0CB15205}|Default">
+  <MonoDevelop.Ide.ItemProperties.Mediator FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BankAccounts.cs">
+    <Files>
+      <File FileName="Program.cs" Line="5" Column="5" />
+      <File FileName="BankAccounts.cs" Line="6" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Mediator" expanded="True">
+            <Node name="Mediator" expanded="True">
+              <Node name="BankAccounts.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

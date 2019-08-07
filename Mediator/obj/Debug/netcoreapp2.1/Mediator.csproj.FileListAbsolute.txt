@@ -1,0 +1,11 @@
+/Users/xinyutan/Documents/GitHub/DesignPattern/Mediator/obj/Debug/netcoreapp2.1/Mediator.csprojAssemblyReference.cache
+/Users/xinyutan/Documents/GitHub/DesignPattern/Mediator/obj/Debug/netcoreapp2.1/Mediator.csproj.CoreCompileInputs.cache
+/Users/xinyutan/Documents/GitHub/DesignPattern/Mediator/obj/Debug/netcoreapp2.1/Mediator.AssemblyInfoInputs.cache
+/Users/xinyutan/Documents/GitHub/DesignPattern/Mediator/obj/Debug/netcoreapp2.1/Mediator.AssemblyInfo.cs
+/Users/xinyutan/Documents/GitHub/DesignPattern/Mediator/bin/Debug/netcoreapp2.1/Mediator.deps.json
+/Users/xinyutan/Documents/GitHub/DesignPattern/Mediator/bin/Debug/netcoreapp2.1/Mediator.runtimeconfig.json
+/Users/xinyutan/Documents/GitHub/DesignPattern/Mediator/bin/Debug/netcoreapp2.1/Mediator.runtimeconfig.dev.json
+/Users/xinyutan/Documents/GitHub/DesignPattern/Mediator/bin/Debug/netcoreapp2.1/Mediator.dll
+/Users/xinyutan/Documents/GitHub/DesignPattern/Mediator/bin/Debug/netcoreapp2.1/Mediator.pdb
+/Users/xinyutan/Documents/GitHub/DesignPattern/Mediator/obj/Debug/netcoreapp2.1/Mediator.dll
+/Users/xinyutan/Documents/GitHub/DesignPattern/Mediator/obj/Debug/netcoreapp2.1/Mediator.pdb
