@@ -1,9 +1,9 @@
 ﻿<Properties StartupConfiguration="{DB8E7E8F-09E8-491D-A6E4-4C1D0CB15205}|Default">
-  <MonoDevelop.Ide.ItemProperties.Mediator FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Mediator PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="BankAccounts.cs">
     <Files>
-      <File FileName="Program.cs" Line="5" Column="5" />
-      <File FileName="BankAccounts.cs" Line="6" Column="9" />
+      <File FileName="Program.cs" Line="16" Column="49" />
+      <File FileName="BankAccounts.cs" Line="12" Column="50" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
