@@ -1,0 +1,11 @@
+/Users/xinyutan/Documents/GitHub/DesignPattern/Observer/bin/Debug/netcoreapp2.1/Observer.deps.json
+/Users/xinyutan/Documents/GitHub/DesignPattern/Observer/bin/Debug/netcoreapp2.1/Observer.runtimeconfig.json
+/Users/xinyutan/Documents/GitHub/DesignPattern/Observer/bin/Debug/netcoreapp2.1/Observer.runtimeconfig.dev.json
+/Users/xinyutan/Documents/GitHub/DesignPattern/Observer/bin/Debug/netcoreapp2.1/Observer.dll
+/Users/xinyutan/Documents/GitHub/DesignPattern/Observer/bin/Debug/netcoreapp2.1/Observer.pdb
+/Users/xinyutan/Documents/GitHub/DesignPattern/Observer/obj/Debug/netcoreapp2.1/Observer.csprojAssemblyReference.cache
+/Users/xinyutan/Documents/GitHub/DesignPattern/Observer/obj/Debug/netcoreapp2.1/Observer.csproj.CoreCompileInputs.cache
+/Users/xinyutan/Documents/GitHub/DesignPattern/Observer/obj/Debug/netcoreapp2.1/Observer.AssemblyInfoInputs.cache
+/Users/xinyutan/Documents/GitHub/DesignPattern/Observer/obj/Debug/netcoreapp2.1/Observer.AssemblyInfo.cs
+/Users/xinyutan/Documents/GitHub/DesignPattern/Observer/obj/Debug/netcoreapp2.1/Observer.dll
+/Users/xinyutan/Documents/GitHub/DesignPattern/Observer/obj/Debug/netcoreapp2.1/Observer.pdb

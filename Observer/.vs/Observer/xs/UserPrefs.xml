@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{EA35D0AB-C332-4048-836A-CA15C3C89409}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ProjectManagement.cs">
+    <Files>
+      <File FileName="Program.cs" Line="47" Column="15" />
+      <File FileName="ProjectManagement.cs" Line="16" Column="30" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Observer" expanded="True">
+            <Node name="Observer" expanded="True">
+              <Node name="ProjectManagement.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Observer PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
