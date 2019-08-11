@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{FBECC05D-FCED-4FCC-BBE0-75927DBEB5D0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Todos.cs">
+    <Files>
+      <File FileName="Program.cs" Line="16" Column="28" />
+      <File FileName="PatientRisk.cs" Line="94" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="State" expanded="True">
+            <Node name="State" expanded="True">
+              <Node name="Todos.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.State PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
