@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{2DC757AA-8251-479A-BDF3-2521165DDCCC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TreeTraversal.cs">
+    <Files>
+      <File FileName="Program.cs" Line="26" Column="40" />
+      <File FileName="Order.cs" Line="129" Column="40" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Strategy" expanded="True">
+            <Node name="Strategy" expanded="True">
+              <Node name="TreeTraversal.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Strategy PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
